@@ -1,0 +1,9 @@
+(version 1)
+(rule "Distance between Vias Hole Same Nets"  
+	(constraint hole_to_hole (min 0.254mm))
+	(condition "A.Type =='Via' && B.Type =='Via' && A.Net == B.Net")
+)
+(rule "Distance between zones"  
+	(constraint clearance (min 0.3mm))
+	(condition "A.Type =='Zone' && B.Type =='Zone' && A.Net != B.Net")
+)
