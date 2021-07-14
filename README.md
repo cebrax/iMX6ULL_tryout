@@ -16,3 +16,4 @@ The board has:
 ![Back](https://user-images.githubusercontent.com/1615524/125273766-efaf6600-e315-11eb-9836-31e78e2a3736.png)
 ![IMG_2802](https://user-images.githubusercontent.com/1615524/125273781-f3db8380-e315-11eb-83c1-436e037f1c4d.jpg)
 ![IMG_2803](https://user-images.githubusercontent.com/1615524/125273796-f76f0a80-e315-11eb-8ffd-b33c6c3840de.jpg)
+![StressTest](https://user-images.githubusercontent.com/1615524/125620908-e0ea969a-c7eb-46ae-a57d-b31554712831.png)
